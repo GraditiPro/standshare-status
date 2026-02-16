@@ -8,8 +8,6 @@ sites:
     url: https://api.standshare.app/health
   - name: Admin Portal
     url: https://admin.standshare.app
-  - name: Admin API
-    url: https://admin-api.standshare.app/health
   - name: Docs
     url: https://docs.standshare.app
   - name: Marketing
