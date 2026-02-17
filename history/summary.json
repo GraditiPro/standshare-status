@@ -4,19 +4,19 @@
     "url": "https://demo.standshare.app",
     "icon": "https://icons.duckduckgo.com/ip3/demo.standshare.app.ico",
     "slug": "web-app",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 19818,
-    "timeDay": 19818,
-    "timeWeek": 19818,
-    "timeMonth": 19818,
-    "timeYear": 19818,
+    "time": 10079,
+    "timeDay": 10079,
+    "timeWeek": 10079,
+    "timeMonth": 10079,
+    "timeYear": 10079,
     "dailyMinutesDown": {
-      "2026-02-17": 164,
+      "2026-02-17": 853,
       "2026-02-16": 1391
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 164,
+      "2026-02-17": 853,
       "2026-02-16": 1391
     }
   },
@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.standshare.app.ico",
     "slug": "admin-portal",
     "status": "down",
-    "uptime": "51.85%",
-    "uptimeDay": "48.02%",
-    "uptimeWeek": "51.85%",
-    "uptimeMonth": "51.85%",
-    "uptimeYear": "51.85%",
+    "uptime": "35.93%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "35.93%",
+    "uptimeMonth": "35.93%",
+    "uptimeYear": "35.93%",
     "time": 211,
     "timeDay": 0,
     "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-02-17": 164,
+      "2026-02-17": 853,
       "2026-02-16": 585
     }
   },
@@ -97,7 +97,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 164,
+      "2026-02-17": 853,
       "2026-02-16": 1391
     }
   }
